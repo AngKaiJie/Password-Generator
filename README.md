@@ -1,6 +1,6 @@
 # Password-Generator
 Password Generator with 3 features : 
-1. Password generation (between 12 to 25 characters long)
+1. Password Generation (between 12 to 25 characters long)
 2. Password Checker
 3. Copy Password function
 
